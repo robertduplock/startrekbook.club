@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/reviews/tng-death-in-winter/</loc>
+    <loc>/reviews/tng-death-in-winter/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/reviews/titan-taking-wing/</loc>
+    <loc>/reviews/titan-taking-wing/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/tags/relaunch-read/</loc>
+    <loc>/tags/relaunch-read/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/</loc>
+    <loc>/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/reviews/</loc>
+    <loc>/reviews/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://robertduplock.github.io/startrekbook.clubhug/book-list/</loc>
+    <loc>/book-list/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
