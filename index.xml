@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Star Trek Relaunch Book Club on Trek Relaunch Book Club</title>
-    <link>https://example.com/</link>
+    <link>https://robertduplock.github.io/startrekbook.clubhug/</link>
     <description>Recent content in Star Trek Relaunch Book Club on Trek Relaunch Book Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robertduplock.github.io/startrekbook.clubhug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TNG: Death In Winter</title>
-      <link>https://example.com/reviews/tng-death-in-winter/</link>
+      <link>https://robertduplock.github.io/startrekbook.clubhug/reviews/tng-death-in-winter/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/reviews/tng-death-in-winter/</guid>
+      <guid>https://robertduplock.github.io/startrekbook.clubhug/reviews/tng-death-in-winter/</guid>
       <description>Kicking off the Star Trek: The Next Generation relaunch — a series of novels that continued the adventures of Captain Jean-Luc Picard and the crew of the Enterprise-E after the events of Star Trek: Nemesis — Death in Winter makes a bold move right out of the gate by changing one of the fundamental character relationships from the show… by finally pairing up Picard and Beverly Crusher.
 The final two two entries of my Prelude to Picard series — with the last review coming next week — deal with books that take place after the (to this point) final appearances of The Next Generation crew on our TV or movie screens.</description>
     </item>
     
     <item>
       <title>Titan: Taking Wing</title>
-      <link>https://example.com/reviews/titan-taking-wing/</link>
+      <link>https://robertduplock.github.io/startrekbook.clubhug/reviews/titan-taking-wing/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/reviews/titan-taking-wing/</guid>
+      <guid>https://robertduplock.github.io/startrekbook.clubhug/reviews/titan-taking-wing/</guid>
       <description>This book is next up to be read.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://robertduplock.github.io/startrekbook.clubhug/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://robertduplock.github.io/startrekbook.clubhug/contact/</guid>
       <description>Coming soon!</description>
     </item>
     

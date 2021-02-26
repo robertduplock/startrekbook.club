@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Trek Relaunch Book Club</title>
-    <link>https://example.com/about/</link>
+    <link>https://robertduplock.github.io/startrekbook.clubhug/about/</link>
     <description>Recent content in About on Trek Relaunch Book Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://robertduplock.github.io/startrekbook.clubhug/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
