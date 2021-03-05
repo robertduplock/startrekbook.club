@@ -52,5 +52,9 @@
     <loc>/book-list/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>/titan-crew/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
