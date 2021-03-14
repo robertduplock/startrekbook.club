@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reviews on Trek Relaunch Book Club</title>
-    <link>/reviews/</link>
-    <description>Recent content in Reviews on Trek Relaunch Book Club</description>
+    <title>Titan on Trek Relaunch Book Club</title>
+    <link>/tags/titan/</link>
+    <description>Recent content in Titan on Trek Relaunch Book Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="/reviews/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>(1) TNG: Death In Winter</title>
-      <link>/reviews/tng-death-in-winter/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/reviews/tng-death-in-winter/</guid>
-      <description>&lt;p&gt;DNA thieves, Beverly Crusher&amp;rsquo;s maiden name and a few guest appearances from the USS Stargazer. Can author Michael Jan Friedman maneuver the Star Trek TNG books into this new era?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Spoilers ahead!&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/titan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(2) Titan: Taking Wing</title>
       <link>/reviews/titan-taking-wing/</link>
@@ -35,15 +25,6 @@
       <guid>/reviews/titan-red-king/</guid>
       <description>&lt;p&gt;Star Trek Titan finally hits warp speed in this direct follow-up to book #1 Taking Wing. Launched into the far reaches of a satellite galaxy, can Riker steer his crew back to safety?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Spoilers ahead!&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>(4) Articles Of The Federation</title>
-      <link>/reviews/articles-of-the-federation/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/reviews/articles-of-the-federation/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently reading this book. Review coming soon!&lt;/p&gt;</description>
     </item>
     
   </channel>
