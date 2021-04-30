@@ -1,0 +1,49 @@
+title = "Star Trek Relaunch Book Club"
+baseURL = "/"
+languageCode = "en-us"
+theme = "ananke"
+# themesDir = "../.."
+# resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 12
+googleAnalytics = "G-0Y46HHD8R2"
+enableRobotsTXT = true
+disqusShortname = ""
+
+[languages]
+  [languages.en]
+    title = "Trek Relaunch Book Club"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/favicon.ico"
+  site_logo = "/images/star-trek-badge-48-203991.png"
+  description = "Reading the Star Trek relaunch books (post Nemesis) in sensible order."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/maxresdefault.jpg"
+  recent_posts_number = 1
+  custom_js = ["js/script.js"]
+  custom_css = ["css/styles.css"]
+
+[taxonomyPageList]
+  other = "Results for “{{ .Title }}”"
