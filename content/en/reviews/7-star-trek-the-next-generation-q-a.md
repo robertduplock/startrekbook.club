@@ -13,6 +13,8 @@ When Q comes on the TV, I groan and think **oh great this one is a Q episode...*
 
 **Spoilers ahead!**
 
+<!--more-->
+
 ### History
 
 Seasoned Trek author Keith R.A. DeCandido penned _Q&A_ shortly after writing the standalone novel _Articles Of The Federation._ DeCandido was approached by Pocketbooks editor Margaret Clark to write a post-nemesis novel. DeCandido pitched the idea of taking a little break from the Borg (crazy right) and explore the reason why Q was always so interested in humanity and Picard in particular.
