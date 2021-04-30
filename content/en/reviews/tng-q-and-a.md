@@ -19,11 +19,11 @@ When Q comes on the TV, I groan and think _oh great this one is a Q episode..._ 
 
 ### History
 
-Seasoned Trek author Keith R.A. DeCandido penned _Q&A_ shortly after writing the standalone novel _Articles Of The Federation._ DeCandido was approached by Pocketbooks editor Margaret Clark to write a post-nemesis novel. DeCandido pitched the idea of tsaking a little break from the Borg (crazy right) and explore the reason why Q was always so interested in humanity, and Picard in particular.
+Seasoned Trek author Keith R.A. DeCandido penned _Q&A_ shortly after writing the standalone novel _Articles Of The Federation._ DeCandido was approached by Pocketbooks editor Margaret Clark to write a post-nemesis novel. DeCandido pitched the idea of taking a little break from the Borg (crazy right) and explore the reason why Q was always so interested in humanity and Picard in particular.
 
 Interestingly, DeCandido also did some freelance editing at Pocketbooks, so he would have been kept in the loop regarding the post Nemesis litverse.
 
-After writing the book, he made a few changes so it fit in with the previous novel _Resistance_.
+After writing the book, he made a few changes so it fits in with the previous novel _Resistance_.
 
 ### Story
 
