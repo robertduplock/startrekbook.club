@@ -56,3 +56,7 @@ The book does have a couple of downsides though. Quite a few scenes are featurin
 Also, the book is littered with an abundance of Q easter eggs. If you aren't familiar with _Star Trek: Voyager_ and the role Q played, it would be easy to feel a bit overwhelmed. Easter eggs are great when they are a neat bonus, but they can be a bit annoying if you just don't get the references.
 
 DeCandido also dreamed big with this book, essentially tieing all the Q stories together and giving them a single, specific purpose. It was a big, gutsy move. Did it work? Honestly, I wouldn't have minded if the stakes were lower. The book could have been just as enjoyable if the universe were about to end or if Q was not in fact executing a grand plan. I didn't mind the "bigness" of the story, but I don't think it necessarily added a lot.
+
+Reception
+
+_Q&A_ received mostly positive reviews online. It holds a respectable 3.80 on Goodreads (which is a bit low I think). Trek Movie said, "this novel should have been the first _Next Generation_ relaunch novel."
