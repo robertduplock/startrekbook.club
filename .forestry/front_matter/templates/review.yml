@@ -28,3 +28,5 @@ fields:
   config:
     required: false
   label: Inline image
+pages:
+- content/en/reviews/7-star-trek-the-next-generation-q-a.md
