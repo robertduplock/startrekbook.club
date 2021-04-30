@@ -1,7 +1,6 @@
 +++
 date = 2021-04-29T14:00:00Z
 description = "Book review of Star Trek: The Next Generation: Q&A by Keith R.A. DeCandido."
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388409762l/217901.jpg"
 rating = 4
 show_reading_time = true
@@ -43,6 +42,12 @@ Picard has a laugh and the world is saved.
 The first thing I noticed about Q&A was just how good DeCandido is at writing what I think of as Star Trek’s “soap opera scenes.” You know, the scenes where Troi and Riker take a bubble bath or Geordi bombs out with a girl on the holodeck. I really enjoyed the scene with Picard & Crusher eating breakfast in bed (croissants and coffee, oui oui). It was a cleverly crafted scene that showed Picard’s progress as a character, without it feeling out of character. And of course, as soon as the Starfleet uniform goes on, Picard’s smile turns flat as a ruler. 
 
 DeCandido also did a great job with the new characters. Unlike the previous novel Resistance, I felt that T’Lana was finally growing on me. Similarly, we got to see a different side of Leybenzon; an ass at work but an alright guy once the drinks are flowing. La Forge is having some trouble adjusting to the new crew but softens his stance towards Leybenzon and Kadohata. 
+
+{{< pullout >}}
+
+DeCandido’s grasp of the characters is near perfect; he can show us another side of a beloved character like Picard without feeling like we’re seeing someone else on the page
+
+{{< /pullout >}}
 
 The only other DeCandido book I’ve read is Articles Of The Federation, which I felt was well written but a bit aimless. This book actually had a very simple storyline. But it was done well and goes to show a simple story can be very effective. It was well-paced and always grounded in a solid through-line. As stated above, DeCandido’s grasp of the characters is near perfect; he can show us another side of a beloved character like Picard without feeling like we’re seeing someone else on the page.
 
