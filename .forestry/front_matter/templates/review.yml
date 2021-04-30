@@ -17,12 +17,14 @@ fields:
 - type: number
   name: weight
   label: weight
-- type: file
-  name: inline_image
-  label: inline_image
 - type: boolean
   name: show_reading_time
   label: show_reading_time
 - type: number
   name: rating
   label: rating
+- name: inline_image
+  type: text
+  config:
+    required: false
+  label: Inline image
