@@ -5,7 +5,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 rating = 4
 show_reading_time = true
 tags = ["The Next Generation", "Star Trek"]
-title = "(7) Star Trek: The Next Generation: Q&A"
+title = "Star Trek: The Next Generation: Q&A Book Review (7)"
 weight = 7
 
 +++
