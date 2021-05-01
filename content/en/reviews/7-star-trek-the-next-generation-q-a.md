@@ -9,7 +9,7 @@ title = "Star Trek: The Next Generation: Q&A Book Review (7)"
 weight = 7
 
 +++
-When Q comes on the TV, I groan and think **oh great this one is a Q episode...** Can Keith R.A. DeCandido do the near-impossible and write a decent Q novel?
+When Q comes on the TV, I groan and think _oh great this one is a Q episode..._ Can Keith R.A. DeCandido do the near-impossible and write a decent Q novel?
 
 **Spoilers ahead!**
 
@@ -19,29 +19,28 @@ When Q comes on the TV, I groan and think **oh great this one is a Q episode...*
 
 Seasoned Trek author Keith R.A. DeCandido penned _Q&A_ shortly after writing the standalone novel _Articles Of The Federation._ DeCandido was approached by Pocketbooks editor Margaret Clark to write a post-nemesis novel. DeCandido pitched the idea of taking a little break from the Borg (crazy right) and explore the reason why Q was always so interested in humanity and Picard in particular.
 
-  
 Interestingly, DeCandido also did some freelance editing at Pocketbooks, so he would have been kept in the loop regarding the post Nemesis litverse.  
 After writing the book, he made a few changes so it fits in with the previous novel _Resistance_.
 
 ### Story
 
-The mysterious They/Them beings, even more powerful than the Q, are whipping a fresh batch of universes up every time a universe fails to entertain them. 
+The mysterious They/Them beings, even more powerful than the Q, are whipping a fresh batch of universes up every time a universe fails to entertain them.
 
- Meanwhile, Picard and his crew finally leave the dregs of Romulan politics at the bottom of the glass and take their space-Uber Enterprise out to Gorsach IX. Turns out the planet resembles is all symmetrical lines and perfect symmetry. 
+Meanwhile, Picard and his crew finally leave the dregs of Romulan politics at the bottom of the glass and take their space-Uber Enterprise out to Gorsach IX. Turns out the planet resembles is all symmetrical lines and perfect symmetry.
 
-Of course, Q shows up and starts nattering away, doing quirky Q things and generally being a pest. Worf suggests that they ignore Q, as one might ignore a petulant child or a door-to-door salesman. 
+Of course, Q shows up and starts nattering away, doing quirky Q things and generally being a pest. Worf suggests that they ignore Q, as one might ignore a petulant child or a door-to-door salesman.
 
-T’Lana is impressed that Worf keeps his phaser holstered every time Q calls him “micro brain”. 
+T’Lana is impressed that Worf keeps his phaser holstered every time Q calls him “micro brain”.
 
-A bunch of quantum fissures fizzle and pop into the world, and suddenly there are Enterprises everywhere. Picard is absconded off and put in front of Them/They. Q reveals that his true intentions all this time was to manoeuvre humanity into proving their shared universe shouldn’t end up in Them/They’s compost heap. 
+A bunch of quantum fissures fizzle and pop into the world, and suddenly there are Enterprises everywhere. Picard is absconded off and put in front of Them/They. Q reveals that his true intentions all this time was to manoeuvre humanity into proving their shared universe shouldn’t end up in Them/They’s compost heap.
 
 Picard has a laugh and the world is saved.
 
 ### Opinion
 
-The first thing I noticed about Q&A was just how good DeCandido is at writing what I think of as Star Trek’s “soap opera scenes.” You know, the scenes where Troi and Riker take a bubble bath or Geordi bombs out with a girl on the holodeck. I really enjoyed the scene with Picard & Crusher eating breakfast in bed (croissants and coffee, oui oui). It was a cleverly crafted scene that showed Picard’s progress as a character, without it feeling out of character. And of course, as soon as the Starfleet uniform goes on, Picard’s smile turns flat as a ruler. 
+The first thing I noticed about Q&A was just how good DeCandido is at writing what I think of as Star Trek’s “soap opera scenes.” You know, the scenes where Troi and Riker take a bubble bath or Geordi bombs out with a girl on the holodeck. I really enjoyed the scene with Picard & Crusher eating breakfast in bed (croissants and coffee, oui oui). It was a cleverly crafted scene that showed Picard’s progress as a character, without it feeling out of character. And of course, as soon as the Starfleet uniform goes on, Picard’s smile turns flat as a ruler.
 
-DeCandido also did a great job with the new characters. Unlike the previous novel Resistance, I felt that T’Lana was finally growing on me. Similarly, we got to see a different side of Leybenzon; an ass at work but an alright guy once the drinks are flowing. La Forge is having some trouble adjusting to the new crew but softens his stance towards Leybenzon and Kadohata. 
+DeCandido also did a great job with the new characters. Unlike the previous novel Resistance, I felt that T’Lana was finally growing on me. Similarly, we got to see a different side of Leybenzon; an ass at work but an alright guy once the drinks are flowing. La Forge is having some trouble adjusting to the new crew but softens his stance towards Leybenzon and Kadohata.
 
 {{< pullout >}}
 
