@@ -1,6 +1,7 @@
 ---
 title: The Book List
-description: ''
+description: This is the master list of all the Trek books I intend to read and review,
+  in loosely chronological order.
 
 ---
 This is the master list of all the Trek books I intend to read and review, in loosely chronological order.
