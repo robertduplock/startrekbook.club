@@ -1,15 +1,16 @@
 ---
 date: 2021-02-25
-description: "Star Trek: Titan"
-tags: ["Titan"]
-title: "(2) Titan: Taking Wing"
+description: 'Book review of Star Trek: Titan: Taking Wing by Michael A. Martin and
+  Andy Mangels. This is a post Nemesis relaunch novel.'
+tags:
+- Titan
+title: 'Star Trek: Titan: Taking Wing book review'
 weight: 2
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg
 show_reading_time: true
 rating: 3.5
----
 
+---
 Riker finally gets that 4th pip and has left The Enterprise to captain The Titan. Can this book of new diverse characters find its feet and deliver a compelling read?
 
 **Spoilers ahead!**
