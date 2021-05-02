@@ -1,15 +1,16 @@
 ---
 date: 2021-03-14
-description: "Book review of Star Trek Titan: The Red King by Michael A. Martin & Andy Mangels."
-tags: ["Titan"]
-title: "(3) Titan: The Red King"
+description: 'Book review of Star Trek Titan: The Red King by Michael A. Martin & Andy
+  Mangels.'
+tags:
+- Titan
+title: 'Star Trek: Titan: The Red King book review (3)'
 weight: 3
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328155058l/64003.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328155058l/64003.jpg
 show_reading_time: true
 rating: 4
----
 
+---
 Star Trek Titan finally hits warp speed in this direct follow-up to book #1 *Taking Wing*. Launched into the far reaches of a satellite galaxy, can Riker steer his crew back to safety?
 
 **Spoilers ahead!**
