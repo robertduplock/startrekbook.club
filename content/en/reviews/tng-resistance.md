@@ -1,15 +1,15 @@
 ---
-date: 2021-04-14T20:56:42+10:00
-description: "Book review of Star Trek: The Next Generation: Resistance by J.M. Dillard."
-tags: ["Star Trek", "The Next Generation"]
-title: "(6) The Next Generation: Resistance"
+date: 2021-04-14T20:56:42.000+10:00
+description: 'Book review of Star Trek: The Next Generation: Resistance by J.M. Dillard.'
+tags:
+- The Next Generation
+title: 'Star Trek: The Next Generation: Resistance book review (6)'
 weight: 6
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388697201l/422912.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388697201l/422912.jpg
 show_reading_time: true
 rating: 3
----
 
+---
 The Borg are back. But this time they are faster, meaner and more adaptable. Will their new queen ascend to the throne and doom Earth to assimilation?
 
 **Spoilers ahead!**
