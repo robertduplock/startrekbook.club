@@ -1,15 +1,15 @@
 ---
 date: 2021-03-14
-description: "Book review of Star Trek Titan Orions Hounds by Christopher L. Bennett."
-tags: ["Star Trek", "Titan"]
-title: "(5) Titan: Orions Hounds"
+description: Book review of Star Trek Titan Orions Hounds by Christopher L. Bennett.
+tags:
+- Titan
+title: 'Star Trek: Titan: Orions Hounds book review (5)'
 weight: 5
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924509l/100724.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924509l/100724.jpg
 show_reading_time: true
 rating: 2.5
----
 
+---
 Now that the Dominion War is over, Starfleet is finally getting back to good old exploration. Will Riker and his team of diverse Starfleet personnel must face a set of space whalers who have set their long harpoons on the poor old Space Jellies from TNG season 1 episode 1.
 
 **Spoilers ahead!**
