@@ -1,15 +1,16 @@
 ---
 date: 2021-04-05
-description: "Book review of Star Trek Articles Of The Federation by Keith R.A. DeCandido."
-tags: ["Star Trek"]
-title: "(4) Articles Of The Federation"
+description: Book review of Star Trek Articles Of The Federation by Keith R.A. DeCandido.
+  This is a post Nemesis relaunch novel.
+tags:
+- 'Star Trek: Special or crossover'
+title: 'Star Trek: Articles Of The Federation (4)'
 weight: 4
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716925l/217649.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716925l/217649.jpg
 show_reading_time: true
 rating: 3.5
----
 
+---
 Join your favourite Federation political characters Jed Bartlet, CJ Cregg, Josh Lymen and grumpy old Toby Ziegler as they navigate the pitfalls and challenges of running a massive multi-planetary political juggernaut. Oh wait… is this The West Wing or Star Trek?
 
 **Spoilers ahead!**
