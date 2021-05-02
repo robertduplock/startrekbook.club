@@ -14,7 +14,7 @@ I am currently reading this book. The review will be posted soon!
 
 <!--more-->
 
-**<!--Spoilers ahead!-->**
+**Spoilers ahead!**
 
 ### History
 
