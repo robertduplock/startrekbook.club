@@ -1,15 +1,16 @@
 ---
 date: 2021-02-24
-description: "Book review of Star Trek: The Next Generation: Death In Winter (relaunch novel 1)."
-tags: ["The Next Generation"]
+description: 'Book review of Star Trek: The Next Generation: Death In Winter by Michael
+  Jan Friedman'
+tags:
+- The Next Generation
 title: "(1) TNG: Death In Winter"
 weight: 1
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403347818l/552163.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403347818l/552163.jpg
 show_reading_time: true
 rating: 3
----
 
+---
 DNA thieves, Beverly Crusher's maiden name and a few guest appearances from the USS Stargazer. Can author Michael Jan Friedman maneuver the Star Trek TNG books into this new era?
 
 **Spoilers ahead!**
@@ -85,4 +86,3 @@ https://blog.trekcore.com/2020/01/prelude-to-star-trek-picard-retro-review-death
 https://trekmovie.com/2007/08/04/review-death-in-winter/
 
 http://www.treklit.com/2019/05/DeathinWinter.html
-
