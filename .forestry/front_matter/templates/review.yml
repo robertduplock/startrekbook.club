@@ -8,6 +8,7 @@ fields:
 - type: text
   name: description
   label: description
+  default: 'Book review of Star Trek: SERIES: TITLE by AUTHOR'
 - type: list
   name: tags
   label: tags
