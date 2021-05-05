@@ -1,8 +1,8 @@
 ---
-title: "Titan Crew"
-description: "A helpful list of information about the Star Trek: Titan crew"
----
+title: Titan Crew
+description: 'A helpful list of information about the Star Trek: Titan crew'
 
+---
 Having trouble keeping track of who's who in the Titan crew? Hopefully this list will help.
 
 I've excluded established characters such as Riker, Troi and Tuvok.
@@ -25,13 +25,14 @@ Engineer aboard Titan. Worked on a design for the USS Luna, which underwent a te
 
 ## Ranul Keru
 
-![Ranul Keru](https://static.wikia.nocookie.net/startrek/images/6/66/Commander_Ranul_Keru.jpg)
+![](/uploads/keru_zps6a6e59bd.jpeg)
 
 ### Unjoined Trill male
 
 A bearded and strongly built man, assigned as tactical officer and chief of security. The loss of his former lover Hawk at the hands of the Borg made him initially abrasive towards cybernetically enhanced Choblik Torvig.
 
 ## Doctor Ree
+
 ![Doctor Ree](https://static.wikia.nocookie.net/startrek/images/5/53/DrRee.jpg)
 
 ### Pahkwa-thanh male
@@ -44,7 +45,7 @@ A doctor that looks like an Earth dinosaur. Chows on raw meat. A nice guy once y
 
 ### Bajoran male
 
-A deeply religious science officer. His wife and children died during the Bajoran occupation. 
+A deeply religious science officer. His wife and children died during the Bajoran occupation.
 
 ## Melora Pazlar
 
