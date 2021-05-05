@@ -33,7 +33,7 @@ A bearded and strongly built man, assigned as tactical officer and chief of secu
 
 ## Doctor Ree
 
-![Doctor Ree](https://static.wikia.nocookie.net/startrek/images/5/53/DrRee.jpg)
+![](/uploads/ree.jpeg)
 
 ### Pahkwa-thanh male
 
