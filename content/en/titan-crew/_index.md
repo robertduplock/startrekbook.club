@@ -41,7 +41,7 @@ A doctor that looks like an Earth dinosaur. Chows on raw meat. A nice guy once y
 
 ## Jaza Najem
 
-![Jaza Najem](https://static.wikia.nocookie.net/startrek/images/4/4d/Jaza_2.jpg)
+![](/uploads/jaza_zpsef693344.jpeg)
 
 ### Bajoran male
 
