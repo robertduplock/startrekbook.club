@@ -9,13 +9,15 @@ title = "Star Trek: The Next Generation: Before Dishonor book review (8)"
 weight = 8
 
 +++
-I am currently reading this book. The review will be posted soon!
+The Borg are back... again. And they're hungry. They're eating starships. They're eating planets. They're back for revenge, and now only Seven of Nine can stop them... with a little help from her friends. 
+
+**Spoilers ahead!**
 
 <!--more-->
 
-**<!--Spoilers ahead!-->**
-
 ### History
+
+Peter David is practically hodjkdf. 
 
 ### Story
 
