@@ -45,7 +45,7 @@ However, this book is just plain silly in parts. I didn't enjoy the character of
 
 {{< pullout >}}
 
-\[...\] this book undoes a lot of the good work set up in _DeCandido_'s preceding _Q&A_ novel
+This book undoes a lot of the good work set up in _DeCandido_'s preceding _Q&A_ novel
 
 {{< /pullout >}}
 
