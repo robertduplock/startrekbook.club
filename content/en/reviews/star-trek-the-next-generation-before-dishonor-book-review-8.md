@@ -43,6 +43,12 @@ _Before Dishonour_ is waffly and tediously over-the-top. Some of the dialogue ha
 
 However, this book is just plain silly in parts. I didn't enjoy the character of Grim Vargo, who felt like a Firefly rip-off shunted into the Star Trek universe. I also didn't particularly appreciate how the first third of the novel focuses on Seven of Nine, despite this being a TNG novel.
 
+{{< pullout >}}
+
+\[...\] this book undoes a lot of the good work set up in _DeCandido_'s preceding _Q&A_ novel
+
+{{< /pullout >}}
+
 I can't entirely blame _David_ though. It's obvious that many seasoned Trek writers struggled with the new relaunch style of individual books all set within a larger, multi-book arc.
 
 And then there is the ending, featuring Lady Q and Janeway walking off into something like the afterlife. Apparently, a lot of fans were pretty cheesed off that they killed Janeway... which is weird because although yes, technically she dies at the end of the book, it's quite obvious that she will be resurrected at some point by the Q or something like that. However, I do agree that it seemed weird to kill off a prominent canon character like Janeway in a _TNG_ novel rather than a _Voyager_ novel.
