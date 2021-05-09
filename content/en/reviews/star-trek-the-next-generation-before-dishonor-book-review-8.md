@@ -37,6 +37,12 @@ Oh and Spock is there for some reason..?
 
 ### Opinion
 
+Okay, let's not mince words here. This book is an absolute clunker. Out of all the Trek books I have read so far, this is the first novel I've read that was simply poorly written. While I disliked _Resistance_ for its story and depiction of certain characters, it was not a badly written book. It just makes some creative mistakes.
+
+_Before Dishonour_ is waffly and tediously over-the-top. Some of the dialogue has to be read to be believed such a thing could survive the editorial process. I understand _David_ is known to write lighter, more comedy focused Trek. And I have no problem with Trek comedies. _Star Trek IV: The Voyage Home_ is my favourite Trek movie. 
+
+However, this book is just plain silly in parts. I didn't enjoy the character of Grim Vargo, who felt like a Firefly rip-off shunted into the Star Trek universe. I also didn't particularly appreciate how the first third of the novel focuses on Seven of Nine, despite this being a TNG novel. 
+
 ### Reception
 
 ### The final verdict
