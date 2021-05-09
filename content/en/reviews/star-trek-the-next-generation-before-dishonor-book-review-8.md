@@ -43,9 +43,19 @@ _Before Dishonour_ is waffly and tediously over-the-top. Some of the dialogue ha
 
 However, this book is just plain silly in parts. I didn't enjoy the character of Grim Vargo, who felt like a Firefly rip-off shunted into the Star Trek universe. I also didn't particularly appreciate how the first third of the novel focuses on Seven of Nine, despite this being a TNG novel.
 
-I can't entirely blame _David_ though. It's obvious that many respected and experienced Trek writers were struggling to write and produce works that took place in these new, serialised, multi-book stories.
+I can't entirely blame _David_ though. It's obvious that many seasoned Trek writers struggled with the new relaunch style of individual books all set within a larger, multi-book arc. 
+
+And then there is the ending, featuring Lady Q and Janeway walking off into something like the afterlife. Aparently a lot of fans were pretty cheesed off that they killed Janeway... which is weird because although yes, technically she dies at the end of the book, it's quite obvious that she will be resurrected at some point by the Q or something like that. However I do agree that it seemed weird to kill off a huge canon character like Janeway in a _TNG_ novel rather than a _Voyager_ novel.
+
+Also, bizarrely enough, there is a rumour that David was initially told to kill Janeway off in the novel. Like completely dead forever. But then when focus groups reacted badly to this decision, they backtracked. Which might explain the awkward inclusion of Lady Q. However this is just a rumour and I haven't found any solid evidence to confirm this. 
+
+Unfortunately in regards to the new Enterprise crew such as Kadohata, Leybenzon, and T'Lana, this book undoes a lot of the good work set up in _DeCandido_'s preceding _Q&A_ novel. They become very unlikeable (again) in this book. I have a feeling _David_ was directed to continue the "new guys don't fit in" story set up in _Resistance_. 
+
+However there were a couple of redeeming parts. Firstly, the comedy does occasionally land with some offbeat zeal. The scene were Worf was ordered to assume command of the _Enterprise_, to which he responding something like, "I cannot, my foot is asleep" was a genuine laugh out loud moment for me. Secondly, the story did start to hit it's stride in the final act. The story with Seven bonding with the doomsday machine was well done. An exciting array of short, sharp chapters kept the story's tempo high and pulsing towards the end. 
 
 ### Reception
+
+Before Dishonor received mostly negative reviews online. In a short but scathing review, StarTrek.com described it as, "\[...\] one of the weakest _Star Trek_ novels of recent time." While Trek Lit said, "For me, _Before Dishonor_ greatly misses the mark." Games Radar said in a somewhat more positive review, "Any space opera that features the line _The bastards ate Pluto!_ must be doing something right. \[... but\] as it is, there’s too much stodge to get through before the fine cuisine." However Sci-Fi Online gave it a positive review stating, "The book’s 400 pages contain some padding, but on the whole this is a very exciting read."
 
 ### The final verdict
 
