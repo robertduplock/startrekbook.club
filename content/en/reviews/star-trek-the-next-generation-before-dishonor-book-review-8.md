@@ -57,6 +57,8 @@ However there were a couple of redeeming parts. Firstly, the comedy does occasio
 
 Before Dishonor received mostly negative reviews online. In a short but scathing review, StarTrek.com described it as, "\[...\] one of the weakest _Star Trek_ novels of recent time." While Trek Lit said, "For me, _Before Dishonor_ greatly misses the mark." Games Radar said in a somewhat more positive review, "Any space opera that features the line _The bastards ate Pluto!_ must be doing something right. \[... but\] as it is, there’s too much stodge to get through before the fine cuisine." However Sci-Fi Online gave it a positive review stating, "The book’s 400 pages contain some padding, but on the whole this is a very exciting read."
 
+Book sales were [above average](https://startrekbook.club/about/sales-data/), perhaps due to Peter David being a popular Trek author.
+
 ### The final verdict
 
 ### Links
