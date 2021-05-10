@@ -11,4 +11,4 @@ weight = 9
 +++
 I am currently reading this book. The review will be posted soon!
 
-![docusign-K2LEKoEGL0s-unsplash.jpg](/static/uploads/docusign-K2LEKoEGL0s-unsplash.jpg)
+![surface-3ImxEgVbHdU-unsplash.jpg](/uploads/surface-3ImxEgVbHdU-unsplash.jpg)
