@@ -11,4 +11,4 @@ weight = 9
 +++
 I am currently reading this book. The review will be posted soon!
 
-![Potatoes!](/content/en/reviews/081516_national_potato_day_recipe.2e16d0ba.fill-1440x605.jpg)
+![docusign-K2LEKoEGL0s-unsplash.jpg](/static/uploads/docusign-K2LEKoEGL0s-unsplash.jpg)
