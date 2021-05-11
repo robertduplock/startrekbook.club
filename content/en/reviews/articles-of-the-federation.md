@@ -9,6 +9,7 @@ weight: 4
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716925l/217649.jpg
 show_reading_time: true
 rating: 3.5
+phase: 'Phase One: Lead up to Destiny'
 
 ---
 Join your favourite Federation political characters Jed Bartlet, CJ Cregg, Josh Lymen and grumpy old Toby Ziegler as they navigate the pitfalls and challenges of running a massive multi-planetary political juggernaut. Oh wait… is this The West Wing or Star Trek?

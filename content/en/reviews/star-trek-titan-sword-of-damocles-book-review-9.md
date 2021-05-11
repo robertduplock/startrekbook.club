@@ -7,6 +7,7 @@ show_reading_time = true
 tags = ["Titan"]
 title = "Star Trek: Titan: Sword of Damocles book review (9)"
 weight = 9
+phase = 'Phase One: Lead up to Destiny'
 
 +++
 I am currently reading this book. The review will be posted soon!

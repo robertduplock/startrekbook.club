@@ -7,6 +7,7 @@ show_reading_time = true
 tags = ["The Next Generation", "Star Trek"]
 title = "Star Trek: The Next Generation: Q&A Book Review (7)"
 weight = 7
+phase = 'Phase One: Lead up to Destiny'
 
 +++
 When Q comes on the TV, I groan and think _oh great this one is a Q episode..._ Can Keith R.A. DeCandido do the near-impossible and write a decent Q novel?

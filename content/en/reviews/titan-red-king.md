@@ -9,6 +9,7 @@ weight: 3
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328155058l/64003.jpg
 show_reading_time: true
 rating: 4
+phase: 'Phase One: Lead up to Destiny'
 
 ---
 Star Trek Titan finally hits warp speed in this direct follow-up to book #1 *Taking Wing*. Launched into the far reaches of a satellite galaxy, can Riker steer his crew back to safety?

@@ -9,6 +9,7 @@ weight: 2
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg
 show_reading_time: true
 rating: 3.5
+phase: 'Phase One: Lead up to Destiny'
 
 ---
 Riker finally gets that 4th pip and has left The Enterprise to captain The Titan. Can this book of new diverse characters find its feet and deliver a compelling read?
