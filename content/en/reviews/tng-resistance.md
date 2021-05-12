@@ -3,7 +3,7 @@ date: 2021-04-14T20:56:42.000+10:00
 description: 'Book review of Star Trek: The Next Generation: Resistance by J.M. Dillard.'
 tags:
 - The Next Generation
-title: 'Star Trek: The Next Generation: Resistance book review (6)'
+title: 'Star Trek: The Next Generation: Resistance book review'
 weight: 6
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388697201l/422912.jpg
 show_reading_time: true

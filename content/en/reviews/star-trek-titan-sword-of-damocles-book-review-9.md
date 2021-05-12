@@ -5,7 +5,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 rating = 1
 show_reading_time = true
 tags = ["Titan"]
-title = "Star Trek: Titan: Sword of Damocles book review (9)"
+title = "Star Trek: Titan: Sword of Damocles book review"
 weight = 9
 phase = 'Phase One: Lead up to Destiny'
 

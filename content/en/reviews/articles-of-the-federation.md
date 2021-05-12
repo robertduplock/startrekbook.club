@@ -4,7 +4,7 @@ description: Book review of Star Trek Articles Of The Federation by Keith R.A. D
   This is a post Nemesis relaunch novel.
 tags:
 - 'Star Trek: Special or crossover'
-title: 'Star Trek: Articles Of The Federation (4)'
+title: 'Star Trek: Articles Of The Federation'
 weight: 4
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716925l/217649.jpg
 show_reading_time: true

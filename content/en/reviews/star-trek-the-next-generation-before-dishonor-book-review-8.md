@@ -5,7 +5,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 rating = 2
 show_reading_time = true
 tags = ["The Next Generation"]
-title = "Star Trek: The Next Generation: Before Dishonor book review (8)"
+title = "Star Trek: The Next Generation: Before Dishonor book review"
 weight = 8
 phase = 'Phase One: Lead up to Destiny'
 

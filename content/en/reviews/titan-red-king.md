@@ -4,7 +4,7 @@ description: 'Book review of Star Trek Titan: The Red King by Michael A. MartinÂ
   Mangels.'
 tags:
 - Titan
-title: 'Star Trek: Titan: The Red King book review (3)'
+title: 'Star Trek: Titan: The Red King book review'
 weight: 3
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328155058l/64003.jpg
 show_reading_time: true
