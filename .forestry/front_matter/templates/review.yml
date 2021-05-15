@@ -30,6 +30,12 @@ fields:
   config:
     required: false
   label: Inline image
+- name: phase
+  type: text
+  config:
+    required: false
+  label: Phase
+  default: 'Phase One: Lead up to Destiny'
 pages:
 - content/en/reviews/7-star-trek-the-next-generation-q-a.md
 - content/en/reviews/7-star-trek-the-next-generation-q-a.md
