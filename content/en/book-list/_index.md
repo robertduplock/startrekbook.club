@@ -1,9 +1,9 @@
 ---
 title: The Book List
-description: >-
-  This is the master list of all the Trek books I intend to read and review, in
-  loosely chronological order.
+description: This is the master list of all the Trek books I intend to read and review,
+  in loosely chronological order.
 published: true
+
 ---
 This is the master list of all the Trek books I intend to read and review, in loosely chronological order.
 
@@ -19,12 +19,12 @@ These books all take place after the events of Star Trek: Nemesis and the differ
  6. [The Next Generation: Resistance](https://startrekbook.club/reviews/tng-resistance/)
  7. [The Next Generation: Q&A](https://startrekbook.club/reviews/7-star-trek-the-next-generation-q-a/)
  8. [The Next Generation: Before Dishonor](https://startrekbook.club/reviews/star-trek-the-next-generation-before-dishonor-book-review-8)
- 9. Titan: Sword of Damocles
+ 9. [Titan: Sword of Damocles](https://startrekbook.club/reviews/star-trek-titan-sword-of-damocles-book-review-9/)
 10. The Next Generation: Greater Than the Sum
 
 ### Bonus Read
 
-* Voyager: Homecoming
+* Voyager: Homecoming ???
 
 ## Phase Two
 
