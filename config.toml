@@ -1,5 +1,5 @@
 title = "Star Trek Relaunch Book Club"
-baseURL = "/"
+baseURL = "https://startrekbook.club"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
