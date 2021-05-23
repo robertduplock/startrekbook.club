@@ -35,7 +35,25 @@ They are successful, but only partially. The epilogue ends with Leybenzon dying 
 
 ### Opinion
 
+The first few chapters of _Greater Than The Sum_ seem to spend their time apologizing for the previous books. It almost retcons them, actually. Bennett covers aspects such as T'Lana's short stint as ships counsellor, Leybenzons resignation, inconsistencies with the Borg and a few other bits and bobs. I admire the idea, trying to clean up some of the past wrongs and creating a more congruent sense of continuity. At times it doesn't make for the most riveting reading, but I didn't mind it.
+
+Bennet also introduces the new character of T'Ryssa Chen. She's sassy, quirky and very un-Vulcan. Although I didn't love every aspect of her character scenes, I still found her character a huge improvement over the dull and unlikeable T'Lana or Leybenzon. Also, I was glad to see Bennet didn't try to squeeze in too many new characters at once. Like _Sword Of Damocles_, I thought that focusing on a single character for the main part of the story was a good way to give the book a solid centre.
+
+And then there is the theme of the book. Family, children and procreation. This theme is woven into just about every chapter. Chen has daddy issues. Picard doesn't want to start a family which Crusher due to his fear of a Borg incursion The Noh Angels don't get the concept of procreation but are keenly interested in the topic. And the liberated Borg (E.g. Hugh and his partner) are trying to find ways to make themselves capable of reproduction. 
+
+![](https://i.redd.it/15qj9532npm61.gif)
+
+Of course, all these leads up to Crusher getting pregnant right as the Borg launch a devastating incursion into Federation space. This is basically a set-up for the forthcoming Destiny trilogy.  
+
+Somehow I can't quite decide whether I liked the all-pervasive central theme of family/children/procreation or not. I think I did like the sense of theme running through the story, but I had two minor quibbles. Firstly, the theme was simply too enmeshed in every aspect of the story and lacked subtlety. Secondly, the book pushes a single message, that children are great and wonderous and you should have children even if a) You spend most of your life away from them on a starship or b) the Borg are coming to eff you up and murder everyone you love.
+
+I suppose what I am saying is the message could have been a bit more balanced.
+
+All that being said, Bennet does a lot of good things with _Greater Than The Sum_. He manages to bring one of his trademark big, wacky ideas and integrates it into an entertaining story. Chen is a welcome breath of fresh air. I also appreciated the book was a little "tighter" than Bennet's _Titan_ novel _Orion's Hounds_. 
+
 ### Reception
+
+_Greater Than The Sum_ received generally positive reviews online. It holds an impressive "outstanding" rating on Trek BBS, with many people praising the new character of Chen.  
 
 ### The final verdict
 
