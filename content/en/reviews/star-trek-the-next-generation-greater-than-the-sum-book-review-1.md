@@ -13,6 +13,11 @@ weight = 10
 +++
 Previous books in the relaunch timeline were criticised for their inconsistencies of tone, character and direction. Can Christopher L. Bennett tie it all together and set up the forthcoming _Destiny_ trilogy? Or will the litverse lay in ruins?
 
+**Spoilers ahead!**
+
+  
+<!--more-->
+
 ### History
 
 Margaret Clark offered Bennet the opportunity to write this instalment of the relaunch timeline back in 2007-2008. So far the relaunch timeline hadn't met with huge success. Book sales appear to have been modest, and fans weren't taking to the new characters. And I'm guessing everybody was getting a bit sick of the Borg. 
@@ -37,6 +42,12 @@ They are successful, but only partially. The epilogue ends with Leybenzon dying 
 
 The first few chapters of _Greater Than The Sum_ seem to spend their time apologizing for the previous books. It almost retcons them, actually. Bennett covers aspects such as T'Lana's short stint as ships counsellor, Leybenzons resignation, inconsistencies with the Borg and a few other bits and bobs. I admire the idea, trying to clean up some of the past wrongs and creating a more congruent sense of continuity. At times it doesn't make for the most riveting reading, but I didn't mind it.
 
+{{ <pullout> }}
+
+I suppose what I am saying is the message could have been a bit more balanced.
+
+{{ </pullout> }}
+
 Bennet also introduces the new character of T'Ryssa Chen. She's sassy, quirky and very un-Vulcan. Although I didn't love every aspect of her character scenes, I still found her character a huge improvement over the dull and unlikeable T'Lana or Leybenzon. Also, I was glad to see Bennet didn't try to squeeze in too many new characters at once. Like _Sword Of Damocles_, I thought that focusing on a single character for the main part of the story was a good way to give the book a solid centre.
 
 And then there is the theme of the book. Family, children and procreation. This theme is woven into just about every chapter. Chen has daddy issues. Picard doesn't want to start a family which Crusher due to his fear of a Borg incursion The Noh Angels don't get the concept of procreation but are keenly interested in the topic. And the liberated Borg (E.g. Hugh and his partner) are trying to find ways to make themselves capable of reproduction. 
@@ -53,8 +64,18 @@ All that being said, Bennet does a lot of good things with _Greater Than The Sum
 
 ### Reception
 
-_Greater Than The Sum_ received generally positive reviews online. It holds an impressive "outstanding" rating on Trek BBS, with many people praising the new character of Chen.  
+_Greater Than The Sum_ received generally positive reviews online. It holds an impressive "outstanding" rating on Trek BBS, with many people praising the new character of Chen. Trek Movie gave it a positive review, stating it featured, "\[..\] a unique new construct, effective use of thread-bare villains, and a heavy dose of character development." Trek Lit also gave it a glowing review, stating that the book, "\[...\] turned out to be a very thoughtful and compelling story." However, Unreality Sc-Fi were not such big fans, "To say _Greater than the Sum_ was an utter disappointment would be a huge understatement".
+
+[Book sales were again modest](https://startrekbook.club/about/sales-data/), which at this point was the case for most relaunch Trek novels.
 
 ### The final verdict
 
+While not a perfect novel, _Greater Than The Sum_ is one of the stronger books in the post-Nemesis litverse. It features a welcome cast shakeup with the introduction of Chen, who was a bit over-the-top but still an enjoyable addition to the Enterprise crew. The story is original, entertaining and cleverly moves the Borg into the back seat and focuses instead on the characters. Perhaps some of the themes could have been handled with a bit more subtlety. Very good, but not great.
+
 ### Links
+
+* [Trek BBS Review Thread](https://www.trekbbs.com/threads/tng-greater-than-the-sum-review-thread.60637/)
+* [Trek Movie Review](https://trekmovie.com/)
+* [Trek Lit Review (+ podcast link)](http://www.treklit.com/2019/10/greater-than-sum.html)
+* [Unreality Sci-Fi Review](http://unreality-sf.net/2008/08/08/star-trek-greater-than-the-sum-review/)
+* [Unreality Sci-Fi Interview with Bennet](http://unreality-sf.net/2008/03/09/christopher-l-bennett-interview/)
