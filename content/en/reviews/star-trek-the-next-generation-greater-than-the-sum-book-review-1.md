@@ -21,7 +21,7 @@ _Bennet_ has said that one of his goals in writing _Greater Than The Sum_ was to
 
 Recognising "Borg fatigue" amongst the fans, bennet also stated that, although the Borg would be in the book, they would take a back seat in the story. Instead, it would focus on introducing a new character, T’Ryssa Chen, and a new form of life; a kind of planetary computerised intelligence that hasn't quite wrapped its head around procreation.  
 
-He also consulted with David Mack, who was busily clacking away on his keyboard dreaming up the epic, forthcoming Destiny trilogy. Mr Bennet certainly had his work cut out for him.
+He also consulted with David Mack, who was busily clacking away on his keyboard dreaming up the epic, forthcoming _Destiny_ trilogy. Mr Bennet certainly had his work cut out for him.
 
 ### Story
 
