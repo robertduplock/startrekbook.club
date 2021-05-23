@@ -25,6 +25,14 @@ He also consulted with David Mack, who was busily clacking away on his keyboard 
 
 ### Story
 
+The story starts by introducing the T’Ryssa Chen, a half-Vulcan-half-human who thoroughly eschews her Vulcan side. She blags her way onto an away mission to alleviate her boredom. While on the planet's, they meet some rather friendly and curious creatures (Noh Angels) but then the Borg show up and totally ruin the party.
+
+These Noh Angels save T'Ryssa's life and demonstrate their awesome technology abilities while doing so. Meanwhile, T'Ryssa's ship (_U.S.S. Rhea_) is partially assimilated and she winds up aboard _Enterprise_, whose mission is three-fold; destroy the assimilated ship _Einstein_, rescue the _Rhea_ if possible and defeat the Borg.  
+
+However, the Noh Angels have other ideas. They don't like to see people fighting, so they keep them separate. Meanwhile, the Borg are drilling into the Angel's planetary brain, sucking out all that delicious technology goodness. Picard, which Chen's help, must convince the peace-loving Noh Angels that they must intervene and defeat the Borg.
+
+They are successful, but only partially. The epilogue ends with Leybenzon dying on the Borg ship, having accidentally delivered the Federation's secret weapon right into their hands.
+
 ### Opinion
 
 ### Reception
