@@ -68,7 +68,7 @@ _Greater Than The Sum_ received generally positive reviews online. It holds an i
 
 ### The final verdict
 
-While it's an imperfect novel, _Greater Than The Sum_ is one of the stronger books in the post-Nemesis litverse. It features a welcome cast shakeup with the introduction of Chen, who was a bit over-the-top but still an enjoyable addition to the Enterprise crew. The story is original, entertaining and cleverly moves the Borg into the back seat and focuses instead on the characters. Perhaps some of the themes could have been handled with a bit more subtlety.
+_Greater Than The Sum_ is, despite its imperfections, one of the stronger entries in the post-Nemesis litverse. It features a welcome cast shakeup with the introduction of Chen, who was a bit over-the-top but still an enjoyable addition to the Enterprise crew. The story is original, entertaining and cleverly moves the Borg into the back seat and focuses instead on the characters. Perhaps some of the themes could have been handled with a bit more subtlety.
 
 ### Links
 
