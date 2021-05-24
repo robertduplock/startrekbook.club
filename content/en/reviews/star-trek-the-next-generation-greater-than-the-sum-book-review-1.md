@@ -10,7 +10,8 @@ title = "Star Trek: The Next Generation: Greater Than The Sum book review"
 weight = 10
 
 +++
-Previous books in the relaunch timeline were criticised for their inconsistencies of tone, character and direction. Can Christopher L. Bennett tie it all together and set up the forthcoming _Destiny_ trilogy? Or will the litverse lay in ruins?
+
+Star Trek fans criticised previous relaunch books for their inconsistences of tone, character, and direction. Can Christopher L. Bennett tie it together, set up the forthcoming _Destiny_ trilogy, and save the litverse from ruin?
 
 **Spoilers ahead!**
 
