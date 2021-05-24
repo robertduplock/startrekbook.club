@@ -42,7 +42,7 @@ The first few chapters of _Greater Than The Sum_ spend much of their time apolog
 
 {{< pullout >}}
 
-What I am saying is the message could have been a bit more balanced.
+Perhaps the message could have been a bit more balanced.
 
 {{< /pullout >}}
 
