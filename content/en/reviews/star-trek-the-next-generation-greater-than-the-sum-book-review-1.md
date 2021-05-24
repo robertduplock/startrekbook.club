@@ -10,8 +10,7 @@ title = "Star Trek: The Next Generation: Greater Than The Sum book review"
 weight = 10
 
 +++
-
-Star Trek fans criticised previous relaunch books for their inconsistences of tone, character, and direction. Can Christopher L. Bennett tie it together, set up the forthcoming _Destiny_ trilogy, and save the litverse from ruin?
+Star Trek fans criticised previous relaunch books for their inconsistencies of tone, character, and direction. Can Christopher L. Bennett tie it together, set up the forthcoming _Destiny_ trilogy, and save the litverse from ruin?
 
 **Spoilers ahead!**
 
@@ -19,13 +18,13 @@ Star Trek fans criticised previous relaunch books for their inconsistences of to
 
 ### History
 
-Margaret Clark offered Bennet the opportunity to write this instalment of the relaunch timeline back in 2007-2008. So far the relaunch timeline hadn't met with huge success. Book sales appear to have been modest, and fans weren't taking to the new characters. And I'm guessing everybody was getting a bit sick of the Borg.
+Margaret Clark offered Bennet the opportunity to write this instalment of the relaunch timeline back in 2007-2008. The relaunch timeline had, thus far, met with limited success. Book sales were modest and fans found the new characters unpalatable. Additionally, I'm guessing everybody was getting sick of the Borg.
 
-_Bennet_ has said that one of his goals in writing _Greater Than The Sum_ was to, "give readers a greater understanding and appreciation of characters and events from its preceding novels." It seems that everybody agreed someone had to tie up some of the loose ends and get this literary franchise back on track.
+Bennet said one of his goals in writing _Greater Than The Sum_ was to, "give readers a greater understanding and appreciation of characters and events from its preceding novels." It seems everybody agreed someone had to tie up the loose ends and get this literary franchise back on track.
 
-Recognising "Borg fatigue" amongst the fans, bennet also stated that, although the Borg would be in the book, they would take a back seat in the story. Instead, it would focus on introducing a new character, T’Ryssa Chen, and a new form of life; a kind of planetary computerised intelligence that hasn't quite wrapped its head around procreation.
+Recognising Borg fatigue amongst the fans, Bennet also stated that the Borg would take a back seat in the story. Instead, it would introduce a new character, T’Ryssa Chen, and a new form of life; a kind of computerised planetary intelligence with a keen interest in the topic of procreation (more on that later).
 
-He also consulted with David Mack, who was busily clacking away on his keyboard dreaming up the epic, forthcoming _Destiny_ trilogy. Mr Bennet certainly had his work cut out for him.
+Bennet also consulted with David Mack, who was busily clacking away on his keyboard, dreaming up the forthcoming _Destiny_ trilogy. Mr Bennet certainly had his work cut out for him writing this one.
 
 ### Story
 
@@ -55,9 +54,9 @@ And then there is the theme of the book. Family, children and procreation. This 
 
 Of course, all these leads up to Crusher getting pregnant right as the Borg launch a devastating incursion into Federation space. This is basically a set-up for the forthcoming Destiny trilogy.
 
-Somehow I can't quite decide whether I liked the all-pervasive central theme of family/children/procreation or not. I think I did like the sense of theme running through the story, but I had two minor quibbles. Firstly, the theme was simply too enmeshed in every aspect of the story and lacked subtlety. Secondly, the book pushes a single message, that children are great and wonderous and you should have children even if a) You spend most of your life away from them on a starship or b) the Borg are coming to eff you up and murder everyone you love.
+Somehow I can't quite decide whether I liked the all-pervasive central theme of family/children/procreation or not. I think I did like the sense of theme running through the story, but I had two minor quibbles. Firstly, the theme was simply too enmeshed in every aspect of the story and lacked subtlety. Secondly, the book pushes a single message; children are great and wonderous and you should have children even if a) You spend most of your life away from them on a starship or b) the Borg are coming to eff you up and murder everyone you love.
 
-I suppose what I am saying is the message could have been a bit more balanced.
+Perhaps the message could have been a bit more balanced.
 
 All that being said, Bennet does a lot of good things with _Greater Than The Sum_. He manages to bring one of his trademark big, wacky ideas and integrates it into an entertaining story. Chen is a welcome breath of fresh air. I also appreciated the book was a little "tighter" than Bennet's _Titan_ novel _Orion's Hounds_.
 
@@ -69,7 +68,7 @@ _Greater Than The Sum_ received generally positive reviews online. It holds an i
 
 ### The final verdict
 
-While not a perfect novel, _Greater Than The Sum_ is one of the stronger books in the post-Nemesis litverse. It features a welcome cast shakeup with the introduction of Chen, who was a bit over-the-top but still an enjoyable addition to the Enterprise crew. The story is original, entertaining and cleverly moves the Borg into the back seat and focuses instead on the characters. Perhaps some of the themes could have been handled with a bit more subtlety. Very good, but not great.
+While it's an imperfect novel, _Greater Than The Sum_ is one of the stronger books in the post-Nemesis litverse. It features a welcome cast shakeup with the introduction of Chen, who was a bit over-the-top but still an enjoyable addition to the Enterprise crew. The story is original, entertaining and cleverly moves the Borg into the back seat and focuses instead on the characters. Perhaps some of the themes could have been handled with a bit more subtlety.
 
 ### Links
 
