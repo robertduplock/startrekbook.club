@@ -10,7 +10,7 @@ title = "Star Trek: The Next Generation: Greater Than The Sum book review"
 weight = 10
 
 +++
-Star Trek fans criticised previous relaunch books for their inconsistencies of tone, character, and direction. Can Christopher L. Bennett tie it together, set up the forthcoming _Destiny_ trilogy, and save the litverse from ruin?
+Star Trek fans criticised previous relaunch books for their inconsistencies in tone, character, and direction. Can Christopher L. Bennett tie it together, set up the forthcoming _Destiny_ trilogy, and save the litverse from ruin?
 
 **Spoilers ahead!**
 
@@ -48,7 +48,7 @@ Perhaps the message could have been a bit more balanced.
 
 Bennet also introduces the new character of T'Ryssa Chen. She's sassy, quirky, and very un-Vulcan. Her character was, at times, a bit over-the-top. But she was still a huge improvement over the dull and unlikeable T'Lana and Leybenzon. I was glad that Bennet restricted the new characters to a single person. Like _Sword Of Damocles_, I found that focusing on a single character helped to centre the story.
 
-The book focuses heavily on a single theme; family, children and procreation. This theme is woven into every chapter. For example, Chen has daddy issues, Picard fears the Borg incursion makes having a family too risky, and The Noh Angels just can't seem to wrap their heads around the whole procreation thing. Additionally, the liberated Borg (E.g. Hugh and his partner) are searching for a way to reproduce in order to keep their society going.
+The book focuses heavily on a single theme; family, children and procreation. This theme is woven into every chapter. For example, Chen has daddy issues, Picard fears the Borg incursion makes having a family too risky, and The Noh Angels just can't seem to wrap their heads around the whole procreation thing. Additionally, the liberated Borg (E.g. Hugh and his partner) are searching for a way to reproduce to keep their society going.
 
 ![](https://i.redd.it/15qj9532npm61.gif)
 
