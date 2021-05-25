@@ -28,17 +28,17 @@ Bennet also consulted with David Mack, who was busily clacking away on his keybo
 
 ### Story
 
-The story starts by introducing the T’Ryssa Chen, a half-Vulcan/half-human, who thoroughly eschews her Vulcan side. She blags her way onto an away mission to alleviate her bridge duty boredom. Once on the planet's, they meet some rather friendly and curious creatures (Noh Angels), but then the Borg show up and totally ruin the party.
+The story starts by introducing T’Ryssa Chen, a half-Vulcan/half-human, who thoroughly eschews her Vulcan side. She blags her way onto an away mission to alleviate her bridge duty boredom. Once on the planet, they meet some rather friendly and curious creatures (Noh Angels), but then the Borg show up and totally ruin the party.
 
 These Noh Angels save T'Ryssa from the Borg using their awesome technological abilities. Meanwhile, T'Ryssa's ship (the _U.S.S. Rhea_) is partially assimilated. Eventually, T'Ryssa winds up aboard the _Enterprise_, whose mission is three-fold; destroy the assimilated ship _Einstein_, rescue the _Rhea_, and defeat the Borg.
 
-However, the Noh Angels have other ideas. They prefer people to be peaceful; so they keep the Borg and the _Enterprise_ apart. Meanwhile, the Borg are drilling into the Angel's planetary brain, sucking out all that gooey and delicious technological goodness. Picard, which Chen's help, must convince the peace-loving Noh Angels to release their grip and let the _Enterprise_ take care of business.
+However, the Noh Angels have other ideas. They prefer people to be peaceful; so they keep the Borg and the _Enterprise_ apart. Meanwhile, the Borg are drilling into the Angel's planetary brain, sucking out all that gooey and delicious technological goodness. Picard, with Chen's help, must convince the peace-loving Noh Angels to release their grip and let the _Enterprise_ take care of business.
 
 They are partially successful. Although the Borg cube is defeated, the book's concluding epilogue ends with Leybenzon dying on another Borg ship, having accidentally delivered the Federation's secret weapon right into their hands.
 
 ### Opinion
 
-The first few chapters of _Greater Than The Sum_ spend much of their time apologizing for the previous books. It almost retcons them. Bennett covers aspects such as T'Lana's short stint as ships counsellor, Leybenzons resignation, inconsistencies with the Borg, and a few other bits and bobs. I admire the idea; lean up some of the past wrongs and create a more congruent continuity. However, the book's first act did get a bit bogged down in the detail.
+The first few chapters of _Greater Than The Sum_ spend much of their time apologizing for the previous books. It almost retcons them. Bennett covers aspects such as T'Lana's short stint as ships counsellor, Leybenzons resignation, inconsistencies with the Borg, and a few other bits and bobs. I admire the idea; clean up some of the past wrongs and create a more congruent continuity. However, the book's first act did get a bit bogged down in the detail.
 
 {{< pullout >}}
 
