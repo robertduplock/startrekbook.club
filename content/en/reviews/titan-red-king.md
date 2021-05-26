@@ -40,7 +40,7 @@ With a couple of million Neyel rescued, Riker finds the _Titan_ moto he’s been
 
 ### Opinion
 
-After the lacklustre _Death In Winter_ and awkward TV pilot feel of _Taking Wing_, reading _The Red King_ was a breath of fresh air. I liked that it felt very Trekky. For starters, it doesn’t have a bad guy as such, more just a set of moral quandaries. Characters are forced to make difficult decisions given near-impossible moral choices. Riker chooses to put his crew at risk to save as many Neyel as he can because he’s Federation and that’s just what they do. Human’s in the future are good.
+After the lacklustre _Death In Winter_ and awkward TV pilot feel of _Taking Wing_, reading _The Red King_ was a breath of fresh air. I liked that it felt very Trekky. It doesn’t have a bad guy as such, more just a set of moral quandaries. Characters are forced to make difficult decisions given near-impossible moral choices. Riker chooses to put his crew at risk to save as many Neyel as he can because he’s Federation and that’s just what they do. Human’s in the future are good.
 
 The book is also a nice end to the Titan pilot book/episode. It both respects the Trek of old but brings a nice hit of difference. I laughed when Riker walked onto the bridge while Vale was freaking out about the champagne and overcrowding. Riker was like: “Cool, a party. Queue the jazz music!” Very different from Picard, who would have ordered a full investigation into how such a thing could have occurred.
 
