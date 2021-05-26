@@ -19,7 +19,7 @@ Star Trek fans criticised previous relaunch books for their inconsistencies in t
 
 ### History
 
-Editor Margaret Clark offered Bennet the opportunity to write this installment of the relaunch timeline back in 2007-2008. The relaunch timeline had, thus far, met with limited success. Book sales were modest and fans found the new characters unpalatable. Additionally, I'm guessing everybody was getting sick of the Borg.
+Editor Margaret Clark offered Bennet the opportunity to write this instalment of the relaunch timeline back in 2007-2008. The relaunch timeline had, thus far, met with limited success. Book sales were modest and fans found the new characters unpalatable. Additionally, I'm guessing everybody was getting sick of the Borg.
 
 Bennet said one goal in writing _Greater Than The Sum_ was to, "give readers a greater understanding and appreciation of characters and events from its preceding novels." It seems everybody agreed someone had to tie up the loose ends and get this literary franchise back on track.
 
