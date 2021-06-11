@@ -43,8 +43,10 @@
   left: 0;
 }
 body {
-  overflow-x: hidden;
-  position: relative;
+  overflow: hidden;
+  position: fixed;
+  touch-action: none;
+  -ms-touch-action: none;
 }
 .site-logo {
   max-width: 3rem;
