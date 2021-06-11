@@ -44,6 +44,7 @@
 }
 body {
   overflow-x: hidden;
+  position: relative;
 }
 .site-logo {
   max-width: 3rem;
