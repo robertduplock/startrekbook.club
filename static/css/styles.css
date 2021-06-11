@@ -22,6 +22,7 @@ body {
   width: 100%;
   height: 100%;
 }
+
 /* Menu desktop */
 .parent-menu-item:hover > .child-menu-item {
   opacity: 0.9;
@@ -41,6 +42,8 @@ body {
   -o-transition: 0.3s all ease;
   transition: 0.3s all ease;
   height: calc(100% - 64px);
+  max-width: 0;
+  overflow: hidden;
 }
 #menu-close {
   display: none;
@@ -58,6 +61,7 @@ body {
 }
 .mobile-menu.open {
   left: 0;
+  max-width: 100%;
 }
 /* Site logo */
 .site-logo {
