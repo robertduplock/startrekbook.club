@@ -44,6 +44,7 @@
       {{ partialCached "social-follow.html" . }}
     </div>
     <i class="fa white fa-bars pointer dn-l" id="hamburger" aria-hidden="true"></i>
+    <i class="fa fa-times white pointer dn dn-l" id="menu-close" aria-hidden="true"></i>
     <div class="mobile-menu bg-near-black absolute left-0 top-0 w-100 z-1 flex flex-column items-center" id="mobile-menu">
       <ul class="flex pa3 justify-between flex-column w-100">
         {{ range .Site.Menus.top.ByWeight }}

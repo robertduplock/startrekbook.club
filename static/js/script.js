@@ -17,14 +17,26 @@
     }, timeout);
   }
 
+  /**
+   * Toggles the mobile menu.
+   */
   app.mobileMenu = function() {
-    var toggle = document.getElementById('hamburger');
+    var menuToggle = document.getElementById('hamburger');
     var mobileMenu = document.getElementById('mobile-menu');
+    var menuClose = document.getElementById('menu-close');
 
-    toggle.onclick = function() {
-      mobileMenu.classList.toggle('open');
+    menuToggle.onclick = function() {
+      toggleMenu();
     }
 
+    menuClose.onclick = function() {
+      toggleMenu();
+    }
+
+    function toggleMenu() {
+      mobileMenu.classList.toggle('open');
+      menuToggle.classList.toggle('open');
+    }
   }
 
   // Call the methods.
