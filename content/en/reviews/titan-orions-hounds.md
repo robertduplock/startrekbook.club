@@ -13,7 +13,7 @@ rating: 2.5
 phase: 'Phase One: Lead up to Destiny'
 
 ---
-Now that the Dominion War is over, Starfleet is finally getting back to good old exploration. Will Riker and his team of diverse Starfleet personnel must face a set of space whalers who have set their long harpoons on the poor old Space Jellies from TNG season 1 episode 1.
+Now that the Dominion War is over, Starfleet can get back to good old exploration. Will Riker and his team of diverse Starfleet personnel must now face a band of space whalers, who aim their long harpoons at the poor old Space Jellies from TNG season 1 episode 1.
 
 **Spoilers ahead!**
 
