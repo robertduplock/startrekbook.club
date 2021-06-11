@@ -25,7 +25,7 @@ disqusShortname = ""
 
 [params]
   favicon = "/favicon.ico"
-  site_logo = "/images/favicon.png"
+  site_logo = "/images/icon2.png"
   description = "Reading the Star Trek relaunch books (post Nemesis) in sensible order."
   facebook = ""
   twitter = ""
