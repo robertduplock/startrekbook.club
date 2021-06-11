@@ -17,7 +17,18 @@
     }, timeout);
   }
 
+  app.mobileMenu = function() {
+    var toggle = document.getElementById('hamburger');
+    var mobileMenu = document.getElementById('mobile-menu');
+
+    toggle.onclick = function() {
+      mobileMenu.classList.toggle('open');
+    }
+
+  }
+
   // Call the methods.
   app.easterEggs(30000);
+  app.mobileMenu();
 
 })();

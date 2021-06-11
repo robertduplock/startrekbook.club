@@ -4,6 +4,8 @@ description: 'Book review of Star Trek: Titan: Taking Wing by Michael A. Martin 
   Andy Mangels. This is a post Nemesis relaunch novel.'
 tags:
 - Titan
+- Relaunch
+- 'Star Trek'
 title: 'Star Trek: Titan: Taking Wing book review'
 weight: 2
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg

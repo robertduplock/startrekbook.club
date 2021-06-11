@@ -8,6 +8,7 @@ draft: false
 inline_image: ""
 show_reading_time: true
 rating: 3
+phase: ""
 ---
 
 **Spoilers ahead!**

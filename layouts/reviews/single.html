@@ -13,7 +13,7 @@
           https://gohugo.io/variables/page/#section-variables-and-methods
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
-        | #{{ ($.Param "weight") }}
+        {{ if $.Param "weight" }} | #{{ ($.Param "weight") }} {{ end }}
       </aside>
       {{ partial "social-share.html" . }}
       <h1 class="f1 athelas mt3 mb1">

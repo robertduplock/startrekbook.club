@@ -4,6 +4,8 @@ description: 'Book review of Star Trek: The Next Generation: Death In Winter by 
   Jan Friedman'
 tags:
 - The Next Generation
+- Relaunch
+- 'Star Trek'
 title: 'Star Trek: The Next Generation: Death In Winter book review'
 weight: 1
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403347818l/552163.jpg
