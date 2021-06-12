@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/maxresdefault.jpg"
+featured_image: "images/bg1.jpg"
 omit_header_text: false
 description: "Lock onto our position and send us a message"
 type: page

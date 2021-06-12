@@ -3,12 +3,12 @@
   {{ range $i, $sequence := (seq 5) }}
     {{ if lt $i $rating }}
       {{ if eq (sub $rating $i) 0.5 }}
-        <img loading="lazy" class="mr1 mw5" src="/images/star-half.svg"/>
+        <i class="fa fa-star-half-o fa-2x mr1 yellow" aria-hidden="true"></i>
       {{ else }}
-        <img loading="lazy" class="mr1 mw5" src="/images/star.svg"/>
+        <i class="fa fa-star fa-2x mr1 yellow" aria-hidden="true"></i>
       {{ end }}
     {{ else }}
-      <img loading="lazy" class="mr1 mw5" src="/images/star-empty.svg"/>
+      <i class="fa fa-star-o fa-2x mr1 yellow" aria-hidden="true"></i>
     {{ end }}    
   {{ end }}
 </div>
